@@ -48,4 +48,4 @@ Examines global indicators such as healthcare access, education, and GDP to unde
 
 Email: [syeiraz@gmail.com]
 LinkedIn: [www.linkedin.com/in/sbudhai]
-GitHub: [Add Link]
+GitHub: [https://github.com/Syz25/data-analytics-portfolio.git]
