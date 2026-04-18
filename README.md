@@ -1,6 +1,6 @@
 # 📊 Data Analytics Portfolio – Syeira Budhai
 
-Welcome to my data analytics portfolio. I am a Data Science graduate with a background in psychology, specializing in data analysis, statistical modeling, and transforming complex datasets into actionable insights.
+Welcome to my data analytics portfolio. I am a Data Science Master's graduate with a background in psychology, specializing in data analysis, statistical modeling, and transforming complex datasets into actionable insights.
 
 This portfolio showcases projects across healthcare, business analytics, and global development.
 
