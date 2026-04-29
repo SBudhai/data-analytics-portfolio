@@ -18,14 +18,10 @@ This project analyzes mental health survey data to understand how workplace and 
 
 ## Project Structure
 
-mental-health-analysis/
-
-├── data/
-
-├── notebooks/
-
-├── visuals/
-
+mental-health-analysis
+├── data
+├── notebooks
+├── visuals
 └── README.md
 
 ## How to Run
